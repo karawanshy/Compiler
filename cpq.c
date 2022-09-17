@@ -34,7 +34,6 @@ char* create_output_file_name(){
 
 int main(int argc, char *argv[])
 {
-    fprintf(stderr, "\nName: Karawan Sheikh Youssef   ID: 319070421\n\n");
 
     if (argc == 1) {
         fprintf(stderr, "No input file name was given!\n");
