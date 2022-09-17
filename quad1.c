@@ -382,5 +382,4 @@ void print_quad_table_to_file(FILE* file){
         }
     }
     fprintf(file, "HALT\n");
-    fprintf(file, "\nName: Karawan Sheikh Youssef   ID: 319070421\n");
 }
