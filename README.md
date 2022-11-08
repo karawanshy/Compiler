@@ -2,7 +2,7 @@
 
 Compilation - 20364
 
-A front-end of the compiler that translates from C-like language CPL to intermediate language Quad.
+The front-end of the compiler that translates from C-like language CPL to intermediate language Quad.
 
 ## Input
 The input is a single file written in CPL (.ou).
