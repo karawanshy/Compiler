@@ -1,4 +1,4 @@
-# C Compiler
+# CPL Compiler
 
 Compilation - 20364
 
